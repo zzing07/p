@@ -13,7 +13,6 @@ public class clas {
 
         System.out.println("inside branch of test 2");
 
-
-
+        System.out.println("new branch from test 2 in line 16");
     }
 }
