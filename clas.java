@@ -7,6 +7,7 @@ public class clas {
 
 
         System.out.println("test branch");
+        System.out.println("test branch2");
 
     }
 }
