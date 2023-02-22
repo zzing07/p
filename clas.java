@@ -11,5 +11,7 @@ public class clas {
 
         System.out.println("added in line 12");
 
+        System.out.println("inside branch of test 2");
+
     }
 }
